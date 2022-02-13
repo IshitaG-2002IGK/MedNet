@@ -49,12 +49,12 @@ Ishita Gopalakrishnan
 Jahnavi Darbhamulla
 
 <p align="center">
-<img src = "https://media-exp1.licdn.com/dms/image/C5603AQGQD7sComp1_w/profile-displayphoto-shrink_400_400/0/1611544262663?e=1642636800&v=beta&t=2f6qkPdXbCVngf8Mcs8xNC9aKCtffY1C-LFjiBAmedA"  height="120" alt="Jahnavi Darbhamulla">
+<!-- <img src = "https://media-exp1.licdn.com/dms/image/C5603AQGQD7sComp1_w/profile-displayphoto-shrink_400_400/0/1611544262663?e=1642636800&v=beta&t=2f6qkPdXbCVngf8Mcs8xNC9aKCtffY1C-LFjiBAmedA"  height="120" alt="Jahnavi Darbhamulla"> -->
 </p>
 <p align="center">
 <a href = "https://github.com/JahnaviDarbhamulla"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
 <a href = "https://www.linkedin.com/in/jahnavi-darbhamulla-0a4280201/">
-<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+<!-- <img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/> -->
 </a>
 </p>
 </td>
