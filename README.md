@@ -35,12 +35,12 @@ https://user-images.githubusercontent.com/76477365/141682823-50ce4948-4cf8-4231-
 Ishita Gopalakrishnan
 
 <p align="center">
-<img src = "https://media-exp1.licdn.com/dms/image/C5603AQF2uU4J13-aGg/profile-displayphoto-shrink_400_400/0/1617816011549?e=1642636800&v=beta&t=ENNjmQh9N8P76acrj247yOo5a8BwifWbS4NBoVDRpxg"  height="120" alt="Ishita G">
+<!-- <img src = "https://media-exp1.licdn.com/dms/image/C5603AQF2uU4J13-aGg/profile-displayphoto-shrink_400_400/0/1617816011549?e=1642636800&v=beta&t=ENNjmQh9N8P76acrj247yOo5a8BwifWbS4NBoVDRpxg"  height="120" alt="Ishita G"> -->
 </p>
 <p align="center">
 <a href = "https://github.com/IshitaG-2002IGK"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
 <a href = "https://www.linkedin.com/in/ishita-gopalakrishnan-92949320b/">
-<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+<!-- <img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/> -->
 </a>
 </p>
 </td>
